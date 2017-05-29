@@ -1,5 +1,10 @@
+body{
+	font-family: 'Playball', cursive;
+	font-size: 40px;
+}
+
 .caja{
-	background-color: red;
+	background-color: #9B0022;
 }
 
 header{
@@ -15,6 +20,15 @@ header{
 
 }
 
-.back.container{
-	
+
+.back .container{
+	background-color: rgba(255,255,255, 0.5);
+	position: relative;
+	height: 100vh;
+}
+
+.texto{
+	position: absolute;
+	top: 40%;
+	left: 35%;
 }

@@ -1,3 +1,20 @@
 .caja{
 	background-color: red;
 }
+
+header{
+	text-align: center;
+}
+
+.back{
+	background-image: url(http://trappandcompany.com/wp-content/uploads/2016/01/Trapp-and-company-kansas-city-florist-with-same-day-flower-delivery.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+
+}
+
+.back.container{
+	
+}
